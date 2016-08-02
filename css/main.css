@@ -1,0 +1,39 @@
+/* Inserta tu CSS aqui */
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+	font-family: Roboto;
+}
+
+a {
+	text-decoration: none;
+	color: grey;
+}
+
+.container {
+	background-color: #F2F2F2;
+	float: left;
+	margin: 3px;
+	padding: 15px;
+	text-align: center;
+	width: 18%;
+	height: 300px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 2px #BDBDBD;
+}
+
+h3 {
+	margin: 15px 0px;
+}
+
+.cursiva {
+	font-style: italic;
+	padding: 15px 0px;
+}
+
+i {
+ 	font-size: 50px;
+}
